@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @agrash shrestha
-- 👀 I’m interested in ... computer language
+- 👋 Hi, I’m Agrash Shrestha
+- 👀 I’m interested in ... computer language, PowerLifting
 - 🌱 I’m currently learning ... c
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... just dm me.
